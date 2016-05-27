@@ -11,4 +11,6 @@ public class TwoNumbers {
         this.a = a;
         this.b = b;
     }
+
+    public Integer getSum(){ return a+b;}
 }
