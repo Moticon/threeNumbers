@@ -13,4 +13,8 @@ public class TwoNumbers {
     }
 
     public Integer getSum(){ return a+b;}
+
+    public Integer getSumOfSquares(){ return a*a + b*b;}
+
+    public Integer getSquareOfSum(){return (a+b)*(a+b);}
 }
